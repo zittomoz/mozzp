@@ -1,0 +1,76 @@
+Privacy Policy – Grim
+
+
+This Privacy Policy explains how Grim ("the Bot", "we", "us", or "our") collects, uses, and stores data when used on Discord servers.
+
+By using the Bot, you agree to the collection and use of data in accordance with this policy.
+
+1. Information We Collect
+The Bot may collect the following data depending on the features enabled:
+
+Server & User Information
+Server ID, name, and settings
+
+User ID and username
+
+Roles and permissions
+
+Channel IDs where commands are used
+
+Command Interactions
+Commands executed
+
+Timestamps of use
+
+User input (e.g., text or settings passed to commands)
+
+Custom Features
+If enabled, the Bot may also store:
+
+Nickname history
+
+Prefixes or aliases set per server
+
+Moderation logs (e.g., bans, kicks, mutes)
+
+We do not collect or log private messages unless the bot explicitly supports DM commands and the user initiates them.
+
+2. How We Use Your Data
+We use collected data solely to:
+
+Provide core functionality of the bot
+
+Allow server administrators to customize behavior
+
+Maintain security, prevent abuse, and enforce restrictions (e.g., whitelisting)
+
+We do not use your data for advertising, marketing, or resale.
+
+3. Data Storage and Security
+All data is stored securely, either in local files or secure cloud databases (e.g., MongoDB).
+
+We implement standard security practices to prevent unauthorized access or modification.
+
+Only the bot owner and authorized developers have access to stored data.
+
+4. Data Sharing
+We do not share or sell your data to third parties. Data is only used internally for bot features and may be accessed for debugging or support purposes.
+
+5. Data Retention
+We retain data as long as it's needed to provide bot functionality. Server-specific data is removed when the bot is removed from a server or upon request.
+
+6. User Rights
+You have the right to:
+
+Request the deletion of your data
+
+Request a summary of what data is stored about you or your server
+
+To make a request, contact the bot owner at: mozittoaurkya@gmail.com
+
+7. Changes to This Policy
+We may update this Privacy Policy at any time. Changes take effect immediately upon being posted. Continued use of the Bot implies agreement to the revised policy.
+
+8. Contact
+For any questions, requests, or concerns regarding this Privacy Policy, reach out via:
+mozittoaurkya@gmail.com
