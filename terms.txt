@@ -1,10 +1,10 @@
-Terms of Service – [Your Bot Name]
-Last updated: [Date]
+Terms of Service – Grim
 
-By using [Your Bot Name] ("the Bot"), you agree to the following Terms of Service. If you do not agree with any of these terms, you are prohibited from using the Bot.
+
+By using Grim, you agree to the following Terms of Service. If you do not agree with any of these terms, you are prohibited from using the Bot.
 
 1. Description
-[Your Bot Name] is a Discord bot designed to provide utility, moderation, and community engagement features for Discord servers.
+Grim is a Discord bot designed to provide utility, moderation, and community engagement features for Discord servers.
 
 2. Eligibility
 By using the Bot, you confirm that:
