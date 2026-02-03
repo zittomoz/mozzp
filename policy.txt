@@ -1,7 +1,7 @@
 Privacy Policy – Veronica
 
 
-This Privacy Policy explains how Grim ("the Bot", "we", "us", or "our") collects, uses, and stores data when used on Discord servers.
+This Privacy Policy explains how Veronica ("the Bot", "we", "us", or "our") collects, uses, and stores data when used on Discord servers.
 
 By using the Bot, you agree to the collection and use of data in accordance with this policy.
 
